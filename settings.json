@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "badoMc-ux8l.aternos.me",
-    "port": 33995,
+    "ip": "badoMc.aternos.me",
+    "port": 40104,
     "version": "1.21.4",
     "try-creative": false
   },
